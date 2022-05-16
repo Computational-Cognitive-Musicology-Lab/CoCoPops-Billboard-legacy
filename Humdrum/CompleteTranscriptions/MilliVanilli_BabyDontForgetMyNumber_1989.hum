@@ -3,6 +3,7 @@
 *E:	*	*E:	*	*E:	*E:	*E:	*E:	*E:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefG2	*	*	*	*	*	*
+*	*VRlead *   *VRbacking	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 1r	.	1r	.	1N	N	.	.	drums
@@ -231,6 +232,7 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	16d 16dd	-ba-	.	.	.	.	.
 .	.	8d 8dd	-ba!	.	.	.	.	.
 =27	=27	=27	=27	=27	=27	=27	=27	=27
+*	*VRlead *   *VRharmony	*	*	*	*	*
 8dq	_	.	.	.	.	.	.	.
 8e	Ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8e	-by!	.	.	.	.	.	.	.
@@ -444,6 +446,7 @@ r;	.	r;	.	1r;	r	.	0	r
 16f#	-ba	.	.	.	.	.	.	.
 =52	=52	=52	=52	=52	=52	=52	=52	=52
 *	*	*	*	*B_verse	*B_verse	*B_verse	*B_verse	*B_verse
+*	*VRlead	*   *VRbacking  *	*	*	*	*
 16f#	ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 16e	-by	.	.	.	.	.	.	.
 16c#	in	.	.	.	.	.	.	.
@@ -559,6 +562,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8d	-ba,	.	.	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
 *	*	*	*	*D_chorus	*D_chorus	*D_chorus	*D_chorus	*D_chorus
+*	*VRlead *   *VRharmony	*	*	*	*	*
 8dq	_	.	.	.	.	.	.	.
 8e	Ba-	1r	.	1EM	E:maj (E G# B)	newline	.	voice
 8e	-by!	.	.	.	.	.	.	.

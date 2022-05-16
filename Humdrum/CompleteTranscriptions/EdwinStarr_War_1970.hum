@@ -3,6 +3,7 @@
 *e-:	*	*e-:	*	*e-:	*e-:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefF4	*	*clefG2	*	*	*	*	*	*
+*	*VRresponse	*   *VRcall *	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -120,6 +121,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =14	=14	=14	=14	=14	=14	=14	=14	=14
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*	*VRlead	*   *VRharmony  *	*	*	*	*
 4ee-	war!	4e-	War	1E-m	E-:min (E- G- B-)	newline	30.843	voice
 4r	.	4r	.	.	.	.	.	.
 4e-	I	2r	.	.	.	.	.	.

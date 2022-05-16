@@ -3,6 +3,7 @@
 *D:	*	*D:	*	*b:	*b:	*b:	*b:	*b:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefF4	*	*clefG2	*	*	*	*	*	*
+*   *VRlead *   *VRbacking  *   *   *   *   *
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
@@ -378,6 +379,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =93	=93	=93	=93	=93	=93	=93	=93	=93
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*   *   *   *VRharmony  *   *   *   *   *
 4BB	Hey	1r	.	1Bm	B:min (B D F#)	newline	151.81	voice
 8D	li-	.	.	.	.	.	.	.
 8D	-ttle	.	.	.	.	.	.	.

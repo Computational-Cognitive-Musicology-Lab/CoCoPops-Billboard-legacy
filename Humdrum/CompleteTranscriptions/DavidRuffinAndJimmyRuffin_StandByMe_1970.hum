@@ -3,6 +3,7 @@
 *G:	*	*G:	*	*G:	*G:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*	*	*	*	*
+*	*VRlead	*	*VRharmony  *   *	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -201,6 +202,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =29	=29	=29	=29	=29	=29	=29	=29	=29
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*	*VRharmony  *   *VRlead	*	*	*	*	*   *
 1r	.	[4d	sky	1GM	G:maj (G B D)	newline	70.891	voice
 .	.	16d]	_	.	.	.	.	.
 .	.	8e	_	.	.	.	.	.
@@ -237,6 +239,7 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	4A	_	.	.	.	.	.
 .	.	4G	_	.	.	.	.	.
 =33	=33	=33	=33	=33	=33	=33	=33	=33
+*	*VRlead	*	*VRharmony  *   *	*	*	*
 8e	or	1r	.	1CM	C:maj (C E G)	newline	80.863	voice
 16g	the	.	.	.	.	.	.	.
 [16g	moun-	.	.	.	.	.	.	.

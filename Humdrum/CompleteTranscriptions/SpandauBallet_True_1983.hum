@@ -3,6 +3,7 @@
 *G:	*	*G:	*	*G:	*G:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefF4	*	*clefF4	*	*	*	*	*	*
+*	*VRlead *   *VRbacking	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -203,6 +204,7 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	8eq	_	.	.	.	.	.
 .	.	[8f#	ha	.	.	.	.	.
 =35	=35	=35	=35	=35	=35	=35	=35	=35
+*	*VRlead *   *VRharmony	*	*	*	*	*
 2r	.	4.f#]	_	1Emm	E:min9 (E G D F#)	.	.	voice
 .	.	8d	ha	.	.	.	.	.
 4r	.	2r	.	.	.	.	.	.
@@ -400,6 +402,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =63	=63	=63	=63	=63	=63	=63	=63	=63
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*VRlead *   *VRbacking	*	*	*	*	*
 1r	.	4r	.	1GM	G:maj (G B D)	newline	152.199	voice
 .	.	4B	Ha	.	.	.	.	.
 .	.	8c	ha	.	.	.	.	.
@@ -408,6 +411,7 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	8eq	_	.	.	.	.	.
 .	.	[8f#	ha	.	.	.	.	.
 =64	=64	=64	=64	=64	=64	=64	=64	=64
+*	*VRlead *   *VRharmony	*	*	*	*	*
 2r	.	4.f#]	_	1Emm	E:min9 (E G D F#)	.	.	voice
 .	.	8d	ha	.	.	.	.	.
 4r	.	2r	.	.	.	.	.	.
@@ -572,6 +576,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =99	=99	=99	=99	=99	=99	=99	=99	=99
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*   *   *	*VRbacking	*	*	*	*	*
 1r	.	4r	.	1GM	G:maj (G B D)	newline	240.187	voice
 .	.	4B	Ha	.	.	.	.	.
 .	.	8c	ha	.	.	.	.	.
@@ -586,6 +591,7 @@ r;	.	r;	.	1r;	r	.	0	r
 8r	.	.	.	.	.	.	.	.
 8G	I	.	.	.	.	.	.	.
 =101	=101	=101	=101	=101	=101	=101	=101	=101
+*	*VRlead *   *VRharmony	*	*	*	*	*
 4.d	know	4.d	know	1CMM	C:maj9 (C E B D)	.	.	voice
 [8G	this	[8G	this	.	.	.	.	.
 4G]	_	4G]	_	.	.	.	.	.
@@ -655,6 +661,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =114	=114	=114	=114	=114	=114	=114	=114	=114
 *>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
+*	*VRresponse *   *VRcall	*	*	*	*	*
 1r	.	8r	.	1GM	G:maj (G B D)	newline	277.128	voice
 .	.	8D 8d	This	.	.	.	.	.
 .	.	8D 8d	much	.	.	.	.	.

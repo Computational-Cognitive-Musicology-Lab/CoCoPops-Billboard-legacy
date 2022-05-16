@@ -3,6 +3,7 @@
 *C:	*	*C:	*	*F:	*F:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*	*	*	*	*
+*	*VRlead	*	*VRbacking  *   *	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -497,6 +498,7 @@ r;	.	r;	.	1r;	r	.	0	r
 *>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
 *>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro	*>Label>Outro
 *	*	*	*	*B:	*B:	*	*	*
+*   *   *	*VRharmony	*	*	*	*	*
 1r	.	2.A 2.e	yeah!	1AM	A:maj (A C# E)	newline	159.193	.
 .	.	4r	.	.	.	.	.	.
 =69	=69	=69	=69	=69	=69	=69	=69	=69

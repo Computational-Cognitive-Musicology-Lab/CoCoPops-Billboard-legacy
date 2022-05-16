@@ -3,6 +3,7 @@
 *C:	*	*C:	*	*C:	*C:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*	*	*	*	*
+*	*VRlead *   *VRharmony	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -266,6 +267,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =49	=49	=49	=49	=49	=49	=49	=49	=49
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*VRlead *   *VRbacking	*	*	*	*	*
 .	.	8gq	_	.	.	.	.	.
 8b-	Whoa,	1a-	whoa	1Fm	F:min (F A- C)	newline	95.534	voice
 [8cc	_	.	.	.	.	.	.	.
@@ -403,6 +405,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =73	=73	=73	=73	=73	=73	=73	=73	=73
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*VRlead *   *VRharmony	*	*	*	*	*
 .	.	8gq	_	.	.	.	.	.
 8b-	-love	1a-	love	1Fm	F:min (F A- C)	newline	141.738	voice
 [8cc	_	.	.	.	.	.	.	.

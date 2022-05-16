@@ -3,6 +3,7 @@
 *C:	*	*C:	*	*C:	*C:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefG2	*	*	*	*	*	*
+*	*VRlead *   *VRharmony	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -106,6 +107,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =21	=21	=21	=21	=21	=21	=21	=21	=21
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*	*VRlead *   *VRbacking	*	*	*	*	*
 4r	.	4r	.	1CM	C:maj (C E G)	newline	35.165	voice
 4c	Is	8c 8e 8g	Sha-	.	.	.	.	.
 .	.	8c 8e 8g	-la-	.	.	.	.	.
@@ -158,6 +160,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =29	=29	=29	=29	=29	=29	=29	=29	=29
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*VRlead *   *VRharmony	*	*	*	*	*
 2.e]	_	1r	.	1EM	E:maj (E G# B)	newline	49.126	voice
 8B	be	.	.	.	.	.	.	.
 8Bq	_	.	.	.	.	.	.	.

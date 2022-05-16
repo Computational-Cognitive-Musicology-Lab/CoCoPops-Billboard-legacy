@@ -3,6 +3,7 @@
 *b-:	*	*b-:	*	*b-:	*	*A-:	*A-:	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*	*	*	*	*
 *clefF4	*	*clefG2	*	*clefF4	*	*	*	*	*	*
+*	*VRlead *   *VRbacking  *   *VRbacking	*	*	*	*	*
 r;	.	r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -158,6 +159,7 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 .	.	.	.	16BB-]	_	.	.	.	.	.
 .	.	.	.	8.BB-	bom,	.	.	.	.	.
 =17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+*	*VRlead *   *VRharmony  *   *VRbacking	*	*	*	*	*
 8D-	now	2r	.	8r	.	2G-M	G-:maj (G- B- D-)	.	.	synthesizer
 16D-	we	.	.	[8GG-	bom,	.	.	.	.	.
 [16D-	come	.	.	.	.	.	.	.	.	.

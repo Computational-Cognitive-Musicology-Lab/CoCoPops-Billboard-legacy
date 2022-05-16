@@ -3,6 +3,7 @@
 *E:	*	*E:	*	*E:	*E:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefF4	*	*clefC3	*	*	*	*	*	*
+*	*VRlead *   *backing	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -44,6 +45,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =8	=8	=8	=8	=8	=8	=8	=8	=8
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*	*VRlead *   *VRharmony	*	*	*	*	*
 8Aq	_	.	.	.	.	.	.	.
 [2B	How	1G#] 1B]	_	1EM	E:maj (E G# B)	newline	16.453	voice
 8B]	_	.	.	.	.	.	.	.

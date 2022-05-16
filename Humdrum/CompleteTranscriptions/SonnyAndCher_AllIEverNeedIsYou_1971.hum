@@ -3,6 +3,7 @@
 *B-:	*	*B-:	*	*B-:	*B-:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*	*	*	*	*
+*	*VRlead *   *	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -82,6 +83,7 @@ r;	.	r;	.	1r;	r	.	0	r
 2r	.	.	.	4FM	F:sus4(b7) (F B- C E-)	.	.	voice
 .	.	.	.	4FMm	F:7 (F A C E-)	.	.	voice
 =11	=11	=11	=11	=11	=11	=11	=11	=11
+*   *   *	*VRlead	*	*	*	*	*
 1r	.	4r	.	1B-M	B-:maj (B- D F)	newline	31.381	voice
 .	.	16d	You're	.	.	.	.	.
 .	.	8d	my	.	.	.	.	.
@@ -144,6 +146,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =19	=19	=19	=19	=19	=19	=19	=19	=19
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+*	*VRlead *   *	*	*	*	*	*
 4r	.	1r	.	1E-M	E-:maj (E- G B-)	newline	55.73	voice
 16B-	Win-	.	.	.	.	.	.	.
 8B-	-ters	.	.	.	.	.	.	.
@@ -215,6 +218,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =27	=27	=27	=27	=27	=27	=27	=27	=27
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*	*VRlead *   *VRharmony	*	*	*	*	*
 8d	Some-	8B-	Some-	1B-M	B-:maj (B- D F)	newline	83.312	voice
 8d	-men	8B-	-men	.	.	.	.	.
 16d	fo-	16B-	fo-	.	.	.	.	.
@@ -245,6 +249,7 @@ r;	.	r;	.	1r;	r	.	0	r
 4r	.	4r	.	.	.	.	.	.
 2r	.	2r	.	.	.	.	.	.
 =31	=31	=31	=31	=31	=31	=31	=31	=31
+*   *   *	*VRlead	*	*	*	*	*
 1r	.	8G	I	1E-M	E-:maj (E- G B-)	newline	95.483	voice
 .	.	8G	have	.	.	.	.	.
 .	.	8G	found	.	.	.	.	.
@@ -276,6 +281,7 @@ r;	.	r;	.	1r;	r	.	0	r
 .	.	2r	.	4FM	F:sus4(b7) (F B- C E-)	.	.	voice
 .	.	.	.	4FMm	F:7 (F A C E-)	.	.	voice
 =35	=35	=35	=35	=35	=35	=35	=35	=35
+*	*VRlead *   *VRharmony	*	*	*	*	*
 16d	With-	16B-	With-	1B-M	B-:maj (B- D F)	newline	107.534	voice
 8d	-out	8B-	-out	.	.	.	.	.
 [16d	love	[16B-	love	.	.	.	.	.
@@ -350,6 +356,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =44	=44	=44	=44	=44	=44	=44	=44	=44
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout	*>Label>Fadeout
+*	*VRlead *   *VRbacking	*	*	*	*	*
 1r	.	8r	.	1B-M	B-:maj (B- D F)	newline	135.131	voice
 .	.	8d	Tah	.	.	.	.	.
 .	.	16d	tah-	.	.	.	.	.

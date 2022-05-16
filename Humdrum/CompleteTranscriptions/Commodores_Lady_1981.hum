@@ -3,6 +3,7 @@
 *c:	*	*c:	*	*c:	*c:	*c:	*c:	*c:
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefF4	*	*	*	*	*	*
+*	*VRlead	*	*VRresponse *   *	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -393,6 +394,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =64	=64	=64	=64	=64	=64	=64	=64	=64
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*VRresponse *   *VRCall	*	*	*	*	*
 8g	Lady!	8g	La-	4Cmm	C:min7 (C E- G B-)	newline	125.668	voice
 8g	_	8g	-dy,	.	.	.	.	.
 4f#	_	4r	.	4B-M	B-:maj (B- D F)	.	.	voice

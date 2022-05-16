@@ -3,6 +3,7 @@
 *C:	*	*C:	*	*C:	*	*C:	*C:	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefC3	*	*clefF4	*	*	*	*	*	*
+*	*VRlead *   *VRharmony  *   *VRharmony	*	*	*	*	*
 r;	.	r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -205,6 +206,7 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 =37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+*   *   *   *   *	*VRbacking	*	*	*	*	*
 8e	Gid-	8c 8g	Gid-	8C	Gid-	1CM	C:maj (C E G)	newline	69.076	.
 8e	-dy	8c 8g	-dy	8C	-dy	.	.	.	.	.
 4e	up	4c 4g	up	8C	up,	.	.	.	.	.
@@ -233,6 +235,7 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 .	.	.	.	4BB-	-maow	.	.	.	.	.
 .	.	.	.	4~BB	maow	.	.	.	.	.
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+*	*VRlead *   *VRharmony  *   *VRharmony	*	*	*	*	*
 2.e	Hi-	2.c 2.g	Hi-	2.C	hi-	1CM	C:maj (C E G)	newline	76.554	.
 4e	-ho,	4c 4g	-ho,	4C	-ho,	.	.	.	.	.
 =42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
@@ -408,6 +411,7 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 =69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+*   *   *   *   *	*VRbacking	*	*	*	*	*
 8e	Gid-	8c 8g	Gid-	8C	Gid-	1CM	C:maj (C E G)	newline	129.503	.
 8e	-dy	8c 8g	-dy	8C	-dy	.	.	.	.	.
 4e	up	4c 4g	up	8C	up,	.	.	.	.	.
@@ -437,6 +441,7 @@ r;	.	r;	.	r;	.	1r;	r	.	0	r
 .	.	.	.	4CC	-maow	.	.	.	.	.
 .	.	.	.	4CC	maow	.	.	.	.	.
 =73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+*	*VRlead *   *VRharmony  *   *VRharmony	*	*	*	*	*
 2.e	Hi-	2.c 2.g	Hi-	2.CC	hi-	1CM	C:maj (C E G)	newline	136.926	.
 4e	-ho,	4c 4g	-ho,	4EE	-ho,	.	.	.	.	.
 =74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74

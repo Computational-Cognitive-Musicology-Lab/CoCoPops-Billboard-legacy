@@ -3,6 +3,7 @@
 *F:	*	*F:	*	*F:	*F:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefC3	*	*clefG2	*	*	*	*	*	*
+*   *VRlead *   *   *   *   *   *   *   * 
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -241,6 +242,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =31	=31	=31	=31	=31	=31	=31	=31	=31
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental	*>Label>Instrumental
+*   *   *   *VRbacking  *   *   *   *   *
 1r	.	1r	.	1FM	F:maj (F A C)	newline	75.105	horns
 =32	=32	=32	=32	=32	=32	=32	=32	=32
 1r	.	1r	.	1Gm	G:min (G B- D)	.	.	horns
@@ -262,6 +264,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =39	=39	=39	=39	=39	=39	=39	=39	=39
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*   *   *   *VRharmony  *   *   *   *   *
 4r	.	4r	.	1FM	F:maj (F A C)	newline	94.871	voice
 8g#q	_	8B-q 8eq 8gq	_	.	.	.	.	.
 8a	Oh	8c 8f 8a	Oh	.	.	.	.	.

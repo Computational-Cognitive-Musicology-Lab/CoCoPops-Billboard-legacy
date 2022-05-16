@@ -3,6 +3,7 @@
 *G:	*	*G:	*	*G:	*G:	*	*	*
 *M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*	*	*	*	*
+*	*VRlead *   *VRbacking	*	*	*	*	*
 r;	.	r;	.	1r;	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2	*>Letter>A2
@@ -273,6 +274,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =37	=37	=37	=37	=37	=37	=37	=37	=37
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+*	*VRlead *   *VRresponse	*	*	*	*	*
 4e	He's	1r	.	1CM	C:maj (C E G)	newline	59.913	voice
 8g	so	.	.	.	.	.	.	.
 8e	_	.	.	.	.	.	.	.
@@ -381,6 +383,7 @@ r;	.	r;	.	1r;	r	.	0	r
 =53	=53	=53	=53	=53	=53	=53	=53	=53
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*	*VRlead *   *VRbacking	*	*	*	*	*
 .	.	.	.	1Amm	A:min7 (A C E G)	newline	86.393	voice
 .	.	4g	Do-	.	.	.	.	.
 .	.	4g	-lang	.	.	.	.	.
@@ -445,6 +448,7 @@ r;	.	r;	.	1r;	r	.	0	r
 [8g	fine	.	.	.	.	.	.	.
 =61	=61	=61	=61	=61	=61	=61	=61	=61
 *>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout	*>Label>>Fadeout
+*	*VRlead *   *VRresponse	*	*	*	*	*
 4g]	_	4r	.	1GM	G:maj (G B D)	newline	99.58	voice
 4r	.	4a	So	.	.	.	.	.
 4r	.	2g	fine	.	.	.	.	.

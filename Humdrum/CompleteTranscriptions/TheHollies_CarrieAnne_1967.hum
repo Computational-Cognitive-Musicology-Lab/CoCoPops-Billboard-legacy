@@ -3,6 +3,7 @@
 *C:	*	*C:	*	*C:	*	*C:	*C:	*	*	*
 *M4/4	*	*M4/4	*	*M4/4	*	*	*	*	*	*
 *clefG2	*	*clefG2	*	*clefG2	*	*	*	*	*	*
+*	*VRlead *   *VRharmony  *   *VRharmony	*	*	*	*	*
 r;	.	r;	.	r;	.	1r	r	.	0	r
 =1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 *>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A	*>Letter>A
@@ -301,6 +302,7 @@ r;	.	r;	.	r;	.	1r	r	.	0	r
 =41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
 *>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D	*>Letter>D
 *>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge	*>Label>Bridge
+*	*VRlead *   *VRresponse *   *VRresponse	*	*	*	*	*
 8a_	_	1r	.	1r	.	1FM	F:maj (F A C)	newline	80.448	voice
 16a]	_	.	.	.	.	.	.	.	.	.
 16r	.	.	.	.	.	.	.	.	.	.
@@ -390,6 +392,7 @@ r;	.	r;	.	r;	.	1r	r	.	0	r
 =58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus	*>Label>Chorus
+*	*VRlead *   *VRharmony  *   *VRharmony	*	*	*	*	*
 2a	Hey	2cc	Hey	2c	Hey	2CM	C:maj (C E G)	newline	114.588	voice
 8g	Carr-	8cc	Carr-	8d	Carr-	2FM	F:maj (F A C)	.	.	voice
 4e	-ie	4g	-ie	4e	-ie	.	.	.	.	.

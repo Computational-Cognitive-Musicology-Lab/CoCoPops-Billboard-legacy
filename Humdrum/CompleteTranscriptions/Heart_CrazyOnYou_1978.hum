@@ -34,6 +34,7 @@ r;	.	r;	.	1r;	r	.	.	r
 =6	=6	=6	=6	=6	=6	=6	=6	=6
 *>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B	*>Letter>B
 *>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro	*>Label>Intro
+*	*VRlead *   *	*	*	*	*	*
 r;	.	r;	.	1Am	A:min (A C E)	newline	37.297	acoustic guitar
 =7	=7	=7	=7	=7	=7	=7	=7	=7
 1r	.	1r	.	1FM	F:maj (F A C)	.	.	acoustic guitar
@@ -244,6 +245,7 @@ r;	.	r;	.	1Am	A:min (A C E)	newline	37.297	acoustic guitar
 =40	=40	=40	=40	=40	=40	=40	=40	=40
 *>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C	*>Letter>C
 *>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse	*>Label>Verse
+*   *   *	*VRlead	*	*	*	*	*
 1e]	_	8d	love	1Am	A:min (A C E)	newline	101.035	voice
 .	.	8e	_	.	.	.	.	.
 .	.	8d	is	.	.	.	.	.
@@ -317,6 +319,7 @@ r;	.	r;	.	1Am	A:min (A C E)	newline	37.297	acoustic guitar
 =48	=48	=48	=48	=48	=48	=48	=48	=48
 *>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E	*>Letter>E
 *>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition	*>Label>Transition
+*	*VRlead	*   *   *	*	*	*	*
 1r	.	8d	_	2.Am	A:min (A C E)	newline	115.844	electric guitar
 .	.	8c	_	.	.	.	.	.
 .	.	[4A	_	.	.	.	.	.
@@ -483,6 +486,7 @@ r;	.	r;	.	1Am	A:min (A C E)	newline	37.297	acoustic guitar
 16a	_	.	.	.	.	.	.	.
 16g#	_	.	.	.	.	.	.	.
 =71	=71	=71	=71	=71	=71	=71	=71	=71
+*	*VRlead  *   *VRharmony	*	*	*	*	*
 [1d [1f#	_	1r	.	1Bmm	B:min7 (F# B D A)	.	.	voice
 =72	=72	=72	=72	=72	=72	=72	=72	=72
 2.d] 2.f#]	_	1r	.	1Bmm	B:min7 (B D F# A)	newline	159.958	voice
@@ -557,6 +561,7 @@ r;	.	r;	.	1Am	A:min (A C E)	newline	37.297	acoustic guitar
 [16e	_	.	.	.	.	.	.	.
 2e_	_	4r	.	.	.	.	.	.
 .	.	16r	.	.	.	.	.	.
+*	*   *   *VRlead	*	*	*	*	*
 .	.	8d	I	.	.	.	.	.
 .	.	16e-	_	.	.	.	.	.
 =86	=86	=86	=86	=86	=86	=86	=86	=86
@@ -644,6 +649,7 @@ r;	.	r;	.	1Am	A:min (A C E)	newline	37.297	acoustic guitar
 .	.	8g	_	.	.	.	.	.
 .	.	8g	zy!	.	.	.	.	.
 =95	=95	=95	=95	=95	=95	=95	=95	=95
+*	*VRlead *   *	*	*	*	*	*
 4~b	-!	1r	.	2.FM	F:maj (F A C)	.	.	.
 4r	.	.	.	.	.	.	.	.
 8r	.	.	.	.	.	.	.	.
