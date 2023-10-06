@@ -385,7 +385,7 @@ r;	.	r;	.	1r;	.	r	.	N.C.
 8cq	_	.	.	.	.	.	.	.
 [8d	day	.	.	.	.	.	.	.
 =66	=66	=66	=66	=66	=66	=66	=66	=66
-*	*	*	*	*E_outro	*E_outro	*E_outro	*	*E_outro
+*>Label>>Outro	*>Label>>Outro	*>Label>>Outro	*>Label>>Outro	*>Label>>Outro	*>Label>>Outro	*>Label>>Outro	*>Label>>Outro	*>Label>>Outro
 4d]	_	1r	.	1Dm	newline	voice	.	D:5
 4r	.	.	.	.	.	.	.	.
 2r	.	.	.	.	.	.	.	.
