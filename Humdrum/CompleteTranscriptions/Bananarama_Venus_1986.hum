@@ -5,7 +5,7 @@
 *e:	*	*e:	*e:	*e:	*	*e:	*e:
 *M4/4	*	*	*	*	*	*	*
 *clefG2	*	*	*	*	*	*	*
-r;	.	1r;	.	r	.	0	1r
+r;	.	1r;	.	r	.	0	N.C.
 =1	=1	=1	=1	=1	=1	=1	=1
 *	*	*>A_trans	*>A_trans	*>A_trans	*	*>A_trans	*>A_trans
 1r	.	1Bm	newline	synthesizer	.	1.022	B:sus4(b7)
@@ -620,8 +620,8 @@ r;	.	1r;	.	r	.	0	1r
 =112	=112	=112	=112	=112	=112	=112	=112
 1r	.	2Em	.	synthesizer	.	213.392	E:min
 .	.	2AM	.	synthesizer	.	214.357	A:maj6
-r;	.	1r;	.	r	.	217.014	1r
-r;	.	1r;	.	r	.	222.302	1r
+r;	.	1r;	.	r	.	217.014	N.C.
+r;	.	1r;	.	r	.	222.302	N.C.
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!BillboardChartDate: 1986/11/01
 !!!BillboardPeak: 1
